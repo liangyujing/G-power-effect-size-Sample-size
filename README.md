@@ -1,3 +1,4 @@
+```
 # 1. 用G power: Syntax
 
 ## [1] -- Thursday, November 08, 2018 -- 19:06:44
@@ -46,5 +47,5 @@ r_sq=SSeff/SStot
     fcrit=qf(.95,a-1,n-a)
 lambda_true=(.24^2)*n
 power=1-pf(fcrit,a-1,n-a,lambda_true)
-
+```
 
